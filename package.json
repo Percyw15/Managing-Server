@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Percyw15/Managing-Server.git",
-  "author": "Miguel <miguelkunzer567@gmail.com>",
+  "author": "Miguel",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2"
